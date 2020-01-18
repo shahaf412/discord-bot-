@@ -1,2 +1,2 @@
-# discord-bot-
+# discord-bot
 hosting on heroku!
